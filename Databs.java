@@ -8,6 +8,9 @@ public class Databs {
 
 	public static void main(String[] args) throws SQLException, ClassNotFoundException {
 		
+
+
+
 		
 		Class.forName("com.mysql.jdbc.Driver");
 		System.out.println("Driver Loaded");
